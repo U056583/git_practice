@@ -1,0 +1,4 @@
+Diese Datei gilt nur zum Test, wie man ein weiteres File in die GIT-
+ueberwachung integrieren kann.
+
+1te Veränderung
